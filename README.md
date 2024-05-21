@@ -1,2 +1,2 @@
-# Home-Automation---Device-to-Device-Communication
+# Home-Automation-Device-to-Device-Communication
 This project explores the implementation of a device-to-device communication system, enabling remote control capabilities through an IoT cloud infrastructure. The setup involves the integration of two wireless modules to facilitate seamless connectivity and data exchange between devices. Through the utilization of an IoT cloud platform and a dedicated remote application, users can remotely trigger actions such as controlling lighting systems. The project showcases the potential of leveraging advanced technologies to enable efficient communication and automation in everyday scenarios.
